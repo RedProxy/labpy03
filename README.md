@@ -1,12 +1,11 @@
 # labpy03
-## Daftar isi
-- [Latihan 1](https://github.com/RedProxy/labpy03/#latihan-1)
-- [Latihan 2](https://github.com/RedProxy/labpy03/#latihan-2)
-- [Program 1](https://github.com/RedProxy/labpy03/#Tugas-Praktikum-3)
 # Latihan 1
 - Program Menampilkan N Bilangan Acak yang Lebih Kecil dari 0.5
+
 ![Gambar 1](screenshoot/Tugas3Lat1.1.png)
+
 - Output
+
 ![Gambar 2](screenshoot/Tugas3Lat1.2.png)
 
 - Penjelasan: 
@@ -33,8 +32,11 @@ print("data ke:",(i+1), "=>",n)
 
 # Latihan 2
 - Program Sederhana Menentukan Bilangan Terbesar, dari Data N yang diinputkan
+
 ![Gambar 3](screenshoot/Tugas3Lat2.1.png)
+
 - Output
+
 ![Gambar 4](screenshoot/Tugas3Lat2.2.png)
 
 Penjelasan: 
@@ -67,8 +69,11 @@ print("Bilangan Terbesar Adalah", n)
 
 # Tugas Praktikum 3
 - Menghitung Total Keuntungan
+
 ![Gambar 5](screenshoot/TugasPraktikum3.1.png)
+
 - Output
+
 ![Gambar 6](screenshoot/TugasPraktikum3.2.png)
 
 1. Dari variabel `laba` terdapat list `modal` dari bulan pertama hingga akhir
